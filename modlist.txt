@@ -1,4 +1,4 @@
-
++PROJECT 2077 - settings
 +I Really Want To Stay At Your House - Judy
 +I Really Want To Stay At Your House - Panam
 +I Really Want To Stay At Your House - Kerry
@@ -8,6 +8,7 @@
 +HD pack
 +Lizzie's Braindances
 +Hangout Romances
++Rita Wheeler Romanced
 +8ug8ear Romance
 +Kerry Romanced Enhanced
 +River Romanced Enhanced
@@ -197,6 +198,7 @@
 +Preem Beards (wtih HD Johnny textures)
 +Jab Begone (Arm Injection Removal)
 +MELUMINARY HAIR COLLECTION - CCXL
++Subleader Hair Pack - CCXL
 +Vanilla - Togglable Feet MascV
 +Toggleable Feet for V - ArchiveXL and EquipmentEx
 +Hair Profiles CCXL
@@ -271,6 +273,7 @@
 +Law Enforcement Overhaul
 +Damage Scaling and Balance (Formerly Level Scaling)
 +Enemies of Night City
++E3 Smart Windows
 +Stock Market and News System
 +Artistic
 +NCI Addon - Watson
@@ -279,7 +282,7 @@
 +NCI Addon - Badlands and Pacifica
 +NCI Addon - Santo Domingo
 +Night City Interactions - Core
-+Live in Night City (a.k.a. survival mode)
++Dark Future - Urban Survival Gameplay
 +They Will Remember
 +NIGHT CITY ALIVE (REDmod)
 +New Lifepath Intro - Fresh Start
@@ -308,7 +311,7 @@
 +Preem Ads
 +Preem Fixes - Metal
 +Preem Fixes - Cloth
-+Cyberpunk Autonomous ReShade - True HDR v2.FX
++PROJECT 2077 ReShade
 +ReShade
 +Preem LUT 3.0 (ACES - New HDR)
 +Load Begone
