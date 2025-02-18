@@ -1,0 +1,42 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "PROJECT 2077",
+    "description": "PROJECT 2077 is your one-stop Wabbajack mod list that adds a little bit of everything to take the hassle out of Cyberpunk modding.",
+    "author": "Munkee",
+    "maintainers": [
+      "github/munkee85"
+    ],
+    "game": "cyberpunk2077",
+    "tags": [
+      "immersion",
+      "balancing",
+      "REDmod",
+      "Phantom Liberty",
+      "Survival",
+      "Beta"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/munkee85/PROJECT-2077/refs/heads/main/Project%202077.png",
+      "readme": "https://github.com/munkee85/PROJECT-2077/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Project%202077.wabbajack_c810e0db-35ae-4bdb-a1be-4254eae43dbe",
+      "machineURL": "PROJECT-2077",
+      "discordURL": "https://discord.gg/Hez6wyrwZb"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"xu0HqSYfy38=",
+      "Size":4871202,
+      "NumberOfArchives":330,
+      "SizeOfArchives":11382858209,
+      "NumberOfInstalledFiles":4180,
+      "SizeOfInstalledFiles":11774786470
+    },
+    "version": "0.1.1"
+  }
+]
+
