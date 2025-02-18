@@ -29,7 +29,7 @@ PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, and KS's ADONIS﻿ for Male V, a
 ### Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
 
-# Requirements
+## Requirements
 
 ### REDmod
 Download REDmod from [Steam](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
@@ -52,6 +52,11 @@ The paid DLC for Cyberpunk 2077
 | ------------- |:-------------:| :-----:|
 | Ryzen 7 7800X3D      | Nvidia RTX 2060 SUPER | 16GB RAM | 
 | Core i7-12700      | Radeon RX 5700 XT | 
+
+### **Disk Space**
+15GB for downloads, 15GB for installation
+
+An SSD is STRONGLY recommended.
 
 # Installation Instructions
 
@@ -106,5 +111,36 @@ Restart the game.
 ### Step 8: Enjoy!
 Select a new game and enjoy! (A new game is required! Loading a save that wasn't made in this list will cause your arms to fall off)
 
-All mod settings have been setup in advance, so no need to set those up, unless you want to make tweaks to them to your liking.
+## Important Mods You Should Know About
 ﻿
+### Dark Future - Urban Survival Gameplay
+Dark Future is a fully-featured Survival, Gameplay, and Immersion mod with systems for Basic Needs, Anxiety, Addiction, and more.
+[Dark Future on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/16300)
+
+### Limited HUD
+Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
+[Limited HUD on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+
+### They Will Remember
+Provide a memory system for the gang factions: They will remember V!
+The more you defeat them, the higher the probability they will turn hostile. Watch your back! Stop slaughtering them and they will forget about you after a while.
+[They Will Remember on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/19747)
+
+### Stock Market and News System
+This mod adds a fully useable stock market system that dynamically reacts to quests and player action. Also adds a news system that shows news based on the game's quests and player actions.
+[Stock Market and News System on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/6319)
+
+### Custom Quickslots
+Adds custom quickslots/hotkeys to the bottom of the screen for consumables, grenades, and cyberware abilities. Fully configurable with in-game menu. Supports controllers and keyboard/mouse.
+[Custom Quickslots on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+
+### Virtual Atelier
+A framework for other modders, that allows them to add virtual stores in-game for their modded clothes items.
+Also allows the players to preview clothing items on their characters before purchasing in stores, & preview in-game items models in their inventory.
+Virtual Atelier can be accessed from your computer in any of your apartments.
+[Virtual Atelier on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2987)
+
+### Virtual Car Dealer
+Very basic framework which allows modders to add any vehicle to a simple virtual shop using TweakXL.
+Virtual Car Dealer can be accessed from your computer in any of your apartments.
+[Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
