@@ -144,3 +144,8 @@ Virtual Atelier can be accessed from your computer in any of your apartments.
 Very basic framework which allows modders to add any vehicle to a simple virtual shop using TweakXL.
 Virtual Car Dealer can be accessed from your computer in any of your apartments.
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+## Links
+[PROJECT UNLEASHED Discord](https://discord.gg/Hez6wyrwZb)
+
+[PROJECT 2077 Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/19807)
