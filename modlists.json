@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/munkee85/PROJECT-2077/refs/heads/main/Project%202077.png",
+      "image": "https://raw.githubusercontent.com/munkee85/PROJECT-2077/main/Project2077.webp",
       "readme": "https://github.com/munkee85/PROJECT-2077/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Project%202077.wabbajack_c810e0db-35ae-4bdb-a1be-4254eae43dbe",
       "machineURL": "PROJECT-2077",
