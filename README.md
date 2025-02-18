@@ -30,5 +30,58 @@ PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, and KS's ADONIS﻿ for Male V, a
 ### Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
 
+# Installation Instructions
 
+### Step 1: Downloads
+Download the Wabbajack installer.
+Download the Project 2077.zip file from the downloads section on this page.
+﻿
+### Step 2: Create Folder Structure
+Create a folder in your drive root called Wabbajack (example: C:\Wabbajack)
+Inside the Wabbajack Folder, create 3 new folders, called Wabbajack, Project 2077 and Wabbajack Downloads (example: C:\Wabbajack\Wabbajack, C:\Wabbajack\Project 2077 and C:\Wabbajack\Wabbajack Downloads)
+
+![alt text](https://i.imgur.com/GPQrD9g.png)
+
+### Step 3: ﻿Place Downloads
+Place the Wabbajack.exe you downloaded inside the second Wabbajack Folder (C:\Wabbajack\Wabbajack\Wabbajack.exe)
+Extract the Project 2077.zip file in the same folder.
+It should look like this when you're done.
+﻿![alt text](https://i.imgur.com/dvkr2VZ.png)
+
+### Step 4: Prepare Wabbajack
+Run Wabbajack.exe and wait for it to complete.
+From the main screen, click on the gear icon ﻿![alt text](https://i.imgur.com/85hOOwN.png)﻿ in the top right corner.
+Log into Nexus mods.
+
+### Step 5: Installation
+From the main screen, select Install From Disk
+If the Target Modlist field is empty, click on the three dots ﻿![alt text](https://i.imgur.com/93nad2J.png)﻿, navigate to where the Project 2077.wabbajack file is located and select it.
+Change the Modlist Installation Directory to your Project 2077 folder (C:\Wabbajack\Project 2077)
+Change the Resource Download Location to your Wabbajack Downloads folder (C:\Wabbajack\Wabbajack Downloads)
+﻿﻿![alt text](https://i.imgur.com/mEr2rOv.png)﻿
+Press the green start button.
+
+### Step 6: Create Shortcut to Mod Organizer 2
+Once Installation is complete, click on the Install Folder icon inside the green box
+﻿﻿![alt text](https://i.imgur.com/OseRjT2.png)
+
+Find the ModOrganizer.exe file ![image](https://github.com/user-attachments/assets/d980ca3f-72e3-43a6-ac9b-222da93b482f).
+﻿
+Right Click on it and select Copy.
+
+On your Desktop, right click and select Paste Shortcut.
+
+### Step 7: Final Steps
+Run Mod Organizer from the shortcut you just created.
+In the top right corner of Mod Organizer, click on the Run Button and wait for Cyberpunk 2077 to launch.
+Note: the first launch takes a little longer, since REDmod needs to deploy your mods.
+Once you get to the main menu, click on HUD Painter and under Presets on the right, select Cyan and press Activate.
+![image](https://github.com/user-attachments/assets/3f493843-ca73-4e3d-8cbe-a00d3d9d7cc3)
+
+Restart the game.
+﻿
+### Step 8: Enjoy!
+Select a new game and enjoy! (A new game is required! Loading a save that wasn't made in this list will cause your arms to fall off)
+
+All mod settings have been setup in advance, so no need to set those up, unless you want to make tweaks to them to your liking.
 ﻿
