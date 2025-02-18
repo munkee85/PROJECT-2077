@@ -2,7 +2,6 @@
 
 ![alt text](https://i.imgur.com/MJ9C7XA.png)
 
-_NOTE: PROJECT 2077 has not been tested on a full playthrough yet, so some bugs and issues should be expected! Please report them if you find any!_
 
 ## Welcome to PROJECT 2077
 
@@ -10,7 +9,7 @@ _NOTE: PROJECT 2077 has not been tested on a full playthrough yet, so some bugs 
 PROJECT 2077 aims to take the hassle out of modding, and enhancing your experience in Cyberpunk 2077 by adding in Graphic enhancements, difficulty overhauls, clothes, cars and more!
 The list is tailored to make the experience immersive and make Night City feel more alive while being as performance friendly as possible. 
 
-## What can you expect in PROJECT 2077?
+## Preamble
 
 ### Core Mods:
 PROJECT 2077 includes a full compliment of core mods, including Cyber Engine Tweaks﻿, RED4ext﻿, redscript﻿, ArchiveXL﻿, TweakXL﻿, Codeware ﻿and more, to allow you to modify the list to your needs and desires with little effort.
@@ -29,6 +28,30 @@ PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, and KS's ADONIS﻿ for Male V, a
 
 ### Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
+
+# Requirements
+
+### REDmod
+Download REDmod from [Steam](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
+
+### Phantom Liberty
+The paid DLC for Cyberpunk 2077
+
+## System Requirements
+
+### **Minimum Specs**
+| CPU        | GPU   |  RAM  |
+| ------------- |:-------------:| :-----:|
+| Ryzen 5 1600      | Nvidia GTX 1060 6GB | 12GB RAM | 
+| Core i7-6700      | Radeon RX 580 8GB | 
+
+
+
+### **Recommended Specs**
+| CPU        | GPU   |  RAM  |
+| ------------- |:-------------:| :-----:|
+| Ryzen 7 7800X3D      | Nvidia RTX 2060 SUPER | 16GB RAM | 
+| Core i7-12700      | Radeon RX 5700 XT | 
 
 # Installation Instructions
 
