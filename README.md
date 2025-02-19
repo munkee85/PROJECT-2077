@@ -90,7 +90,7 @@ Log into Nexus mods.
 
 ### Step 5: Installation
 From the main screen, select Install From Disk.
-If the Target Modlist field is empty, click on the three dots ﻿![alt text](https://i.imgur.com/93nad2J.png)﻿, navigate to where the Project 2077.wabbajack file is located and select it.
+If the Target Modlist field is empty, click on the three dots ﻿![alt text](https://i.imgur.com/93nad2J.png)﻿, navigate to where the Project 2077.wabbajack file is located and select it. _For Nexus Mods installation only_
 
 Change the Modlist Installation Directory to your Project 2077 folder (C:\Wabbajack\Project 2077)
 Change the Resource Download Location to your Wabbajack Downloads folder (C:\Wabbajack\Wabbajack Downloads)
