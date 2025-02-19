@@ -63,6 +63,10 @@ An SSD is STRONGLY recommended.
 
 # Installation Instructions
 
+_If you are installing the list from the Wabbajack Gallery, do Step 2 and skip ahead to Step 5_
+
+_If you are installing using the Nexus Mods file, follow ALL instructions carefully_
+
 ### Step 1: Downloads
 Download the Wabbajack installer.
 Download the Project 2077.zip file from the downloads section on this page.
