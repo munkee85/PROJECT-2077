@@ -31,6 +31,9 @@ Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messag
 
 ## Requirements
 
+### Cyberpunk 2077
+A clean, unmodified installation of Cyberpunk is a hard requirement!
+
 ### REDmod
 Download REDmod from [Steam](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
 
