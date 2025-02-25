@@ -24,7 +24,7 @@ Night City is known for being full of gangs and violence. Experience what Night 
 Need to amp up your style for the streets of Night City? Do so with a large selection of custom clothing, all available from Virtual Atelier. Cruise the streets with a selection of epic new cars available from the Virtual Car Dealer.
 
 ### Appearance:
-PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, and KS's ADONIS﻿ for Male V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
+PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
 
 ### Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
