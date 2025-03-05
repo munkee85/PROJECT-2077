@@ -154,6 +154,6 @@ Virtual Car Dealer can be accessed from your computer in any of your apartments.
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
 ## Links
-[PROJECT UNLEASHED Discord](https://discord.gg/Hez6wyrwZb)
+[PROJECT 2077 Discord](https://discord.gg/pXqE2rnNRn)
 
 [PROJECT 2077 Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/19807)
