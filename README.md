@@ -74,6 +74,7 @@ Download the Project 2077.zip file from the downloads section on this page.
 ### Step 2: Create Folder Structure
 Create a folder in your drive root called Wabbajack (example: C:\Wabbajack)
 Inside the Wabbajack Folder, create 3 new folders, called Wabbajack, Project 2077 and Wabbajack Downloads (example: C:\Wabbajack\Wabbajack, C:\Wabbajack\Project 2077 and C:\Wabbajack\Wabbajack Downloads)
+
 Important: Add exceptions in Windows Defender for both folders! No, there isn't malware in the list. Some scripting mods do tend to get false positive flags in AV software. All files are hosted on Nexus, and Nexus does a full virus scan on all files before it can be hosted, so it is safe.
 
 ![alt text](https://i.imgur.com/GPQrD9g.png)
