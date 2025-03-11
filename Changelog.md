@@ -1,3 +1,133 @@
+## v0.4.1 Changelog
+### Added
+Nissan GTR 'Lone Wanderer'
+
+Berserk Unchained
+
+Pyromania Unchained
+
+Nova Rain
+
+### Removed
+Preem Rain
+
+### Updates
+
+Undercut Hair Collections
+
+Trigger Mode Control
+
+Black Chrome
+
+DISCO's Boutique
+
+The RVCOON Dumpster 2
+
+Immersive Bartenders and Food Vendors
+
+Dark Future
+
+### Fixes
+Nova Traffic car spawns should be better now
+
+They Will Remember has been disabled by default. It's causing random crashes at the moment. If you still want to use it and can live with the occasional crash, you can enable it again in Mod Settings.
+
+## v0.4 Changelog
+
+### Added
+Weapon Handling Control
+
+Stealth Finishers
+
+Taxi Work in Night City
+
+Ricochet Redux
+
+Preem Scanner
+
+Keep Drawing The Line
+
+Better Chimera Mods
+
+Actually Smart Weapons
+
+Nova Traffic
+
+Kiroshi Opticals - Crowd Scanner
+
+Here's Johnny
+
+Coffee Maker and Drink for other apartments
+
+Buttslinger Quickmelee
+
+Apartment Cats - Dogtown
+
+Quickhacks Loadouts
+
+Flashback Fixer
+
+Body Shield
+
+More Climbable Objects
+
+Gambling System
+
+EconomyPunk 
+
+Ford Hennessey (weaponized)
+
+Tesla UAROG
+
+Atlantis Club - Restored
+
+Atlantis Club Expanded
+
+Tottes Atelier Shop and Outfits
+
+### Removed
+911 Badlands WIDEBOI (It's poopoo...)
+
+C8 Corvette Stingray (incompatible with 2.2)
+
+### Updates
+Night City Visuals Nulled
+
+Computer Anywhere
+
+Custom Quickslots
+
+Idle Anywhere
+
+Fresh Start
+
+They Will Remember
+
+Dark Future
+
+DBRV n Co Atelier Store
+
+The RVCOON Dumpster 2
+
+NC Fashion Atelier Store
+
+AMM
+
+Lizzie's Braindances
+
+ReShade
+
+### Fixes
+Fixed MO2 using the wrong default settings in-game
+
+Fixed the ReShade preset not loading automatically
+
+Fixed the weird triple feet bug for Masc V
+
+Potential fix for CTD issues (Removed Material and Texture Override)
+
+Restored the option for vanilla HUD colors in HUD Painter
+
 ## v0.3 Changelog
 
 ### New Outfits
