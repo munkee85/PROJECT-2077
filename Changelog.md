@@ -1,3 +1,56 @@
+## v0.5 Changelog
+### Added
+Combat Revolution (AI Overhaul)
+
+Nissan Skyline GTR R34 HYCADE Bodykit
+
+Ford Mustang Legendary Customs
+
+More Frequent Dismemberment
+
+Nova LUT 2 - Supernova
+
+Nova City
+
+Konpeki Plaza Unlocked
+
+Konpeki Plaza Expanded
+
+Underground Casino
+
+The Glen Project
+
+### Removed
+Preem LUT 3.0
+
+Preem Weather
+
+Enhanced Weather
+
+Alternate Weather Visuals
+
+### Updates
+Nisan GT-R "Lone Wanderer"
+
+Subleader Hair Pack
+
+Pachinko Button
+
+raem's Atelier Store
+
+Lizzie's Braindances (now includes Dark Future features)
+
+### Fixes
+Fixed the blood and gore to be more... messy.
+
+Reactivated They Will Remember.
+
+Relaxed Vehicle Spawning token limits.
+
+Responsive NPC's vehicle reactions in favor of Reacts to Horn
+
+Removed some old remnants of mods I forgot to take out
+
 ## v0.4.1 Changelog
 ### Added
 Nissan GTR 'Lone Wanderer'
