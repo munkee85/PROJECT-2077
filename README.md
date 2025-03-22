@@ -15,7 +15,7 @@ The list is tailored to make the experience immersive and make Night City feel m
 PROJECT 2077 includes a full compliment of core mods, including Cyber Engine Tweaks﻿, RED4ext﻿, redscript﻿, ArchiveXL﻿, TweakXL﻿, Codeware ﻿and more, to allow you to modify the list to your needs and desires with little effort.
 
 ### Graphics:
-Graphics has been enhanced with a selection of theCyanideX﻿'s Preem mods, along with True HDR from Cyberpunk Autonomous ReShade for crisp, clean visuals that stay true to the original look and feel of Night City. Weather has also been enhanced with Enhanced Weather v6﻿ and Alternate Weather Visuals.
+Graphics has been enhanced with a selection of theCyanideX﻿'s Preem mods, along with a custom ReShade for crisp, clean visuals that stay true to the original look and feel of Night City. Weather has also been enhanced with Nova City.
 
 ### Gameplay and Immersion:
 Night City is known for being full of gangs and violence. Experience what Night City was meant to be with more challenging enemies﻿﻿, faction reputation and survival mode﻿. But the NCPD won't let you live lawless with new, beefed up equipment and personnel. But Night City isn't all violence. Experience everyday living with the chooms you make along the way with Night City Interactions, and enjoy a more immersive experience when interacting with vendors and rippers across the city.
