@@ -87,30 +87,25 @@ It should look like this when you're done.
 
 ### Step 4: Prepare Wabbajack
 Run Wabbajack.exe and wait for it to complete.
-From the main screen, click on the gear icon ﻿![alt text](https://i.imgur.com/85hOOwN.png)﻿ in the top right corner.
+From the main screen, go to Settings in the bottom lefthand corner.
 Log into Nexus mods.
 
 ### Step 5: Installation
-From the main screen, select Install From Disk.
-If the Target Modlist field is empty, click on the three dots ﻿![alt text](https://i.imgur.com/93nad2J.png)﻿, navigate to where the Project 2077.wabbajack file is located and select it. _For Nexus Mods installation only_
+From the main screen, click on Browse lists and click on "Install from disk" in the top right corner.
+Navigate to your Wabbajack folder and select the "Project 2077.wabbajack" file.
+ _For Nexus Mods installation only_
 
-Change the Modlist Installation Directory to your Project 2077 folder (C:\Wabbajack\Project 2077)
-Change the Resource Download Location to your Wabbajack Downloads folder (C:\Wabbajack\Wabbajack Downloads)
-﻿﻿![alt text](https://i.imgur.com/mEr2rOv.png)﻿
+Change the Installation Location to your Project 2077 folder (C:\Wabbajack\Project 2077)
+Change the Downloads Location to your Wabbajack Downloads folder (C:\Wabbajack\Wabbajack Downloads)
+﻿﻿![alt text](https://i.imgur.com/YeJJzNc.png)﻿
 Press the green start button.
 
 ### Step 6: Create Shortcut to Mod Organizer 2
-Once Installation is complete, click on the Install Folder icon inside the green box
-﻿﻿![alt text](https://i.imgur.com/OseRjT2.png)
-
-Find the ModOrganizer.exe file ![image](https://github.com/user-attachments/assets/d980ca3f-72e3-43a6-ac9b-222da93b482f).
-﻿
-Right Click on it and select Copy.
-
-On your Desktop, right click and select Paste Shortcut.
+Once Installation is complete, click on the Create Desktop Shortcut button
+﻿﻿![alt text](https://i.imgur.com/uLYBx4b.png)
 
 ### Step 7: Final Steps
-Run Mod Organizer from the shortcut you just created.
+Run Mod Organizer from the shortcut on your Desktop.
 In the top right corner of Mod Organizer, click on the Run Button and wait for Cyberpunk 2077 to launch.
 Note: the first launch takes a little longer, since REDmod needs to deploy your mods.
 Once you get to the main menu, click on HUD Painter and under Presets on the right, select Cyan and press Activate.
