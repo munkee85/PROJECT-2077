@@ -61,6 +61,8 @@ The paid DLC for Cyberpunk 2077
 
 An SSD is STRONGLY recommended.
 
+Nexus Premium is recommended, but not required. With 550+ mods, it can take a while to manually download.
+
 # Installation Instructions
 
 _If you are installing the list from the Wabbajack Gallery, do Step 2 and skip ahead to Step 5_
