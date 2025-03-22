@@ -69,10 +69,12 @@ _If you are installing using the Nexus Mods file, follow ALL instructions carefu
 
 ### Step 1: Downloads
 Download the Wabbajack installer.
+
 Download the Project 2077.zip file from the downloads section on this page.
 ﻿
 ### Step 2: Create Folder Structure
 Create a folder in your drive root called Wabbajack (example: C:\Wabbajack)
+
 Inside the Wabbajack Folder, create 3 new folders, called Wabbajack, Project 2077 and Wabbajack Downloads (example: C:\Wabbajack\Wabbajack, C:\Wabbajack\Project 2077 and C:\Wabbajack\Wabbajack Downloads)
 
 Important: Add exceptions in Windows Defender and any Antivirus software you use for both folders! No, there isn't malware in the list. Some scripting mods do tend to get false positive flags in AV software. All files are hosted on Nexus, and Nexus does a full virus scan on all files before it can be hosted, so it is safe.
@@ -81,21 +83,28 @@ Important: Add exceptions in Windows Defender and any Antivirus software you use
 
 ### Step 3: ﻿Place Downloads
 Place the Wabbajack.exe you downloaded inside the second Wabbajack Folder (C:\Wabbajack\Wabbajack\Wabbajack.exe)
+
 Extract the Project 2077.zip file in the same folder.
+
 It should look like this when you're done.
 ﻿![alt text](https://i.imgur.com/dvkr2VZ.png)
 
 ### Step 4: Prepare Wabbajack
 Run Wabbajack.exe and wait for it to complete.
+
 From the main screen, go to Settings in the bottom lefthand corner.
+
 Log into Nexus mods.
 
 ### Step 5: Installation
 From the main screen, click on Browse lists and click on "Install from disk" in the top right corner.
+
 Navigate to your Wabbajack folder and select the "Project 2077.wabbajack" file.
+
  _For Nexus Mods installation only_
 
 Change the Installation Location to your Project 2077 folder (C:\Wabbajack\Project 2077)
+
 Change the Downloads Location to your Wabbajack Downloads folder (C:\Wabbajack\Wabbajack Downloads)
 ﻿﻿![alt text](https://i.imgur.com/YeJJzNc.png)﻿
 Press the green start button.
@@ -106,8 +115,11 @@ Once Installation is complete, click on the Create Desktop Shortcut button
 
 ### Step 7: Final Steps
 Run Mod Organizer from the shortcut on your Desktop.
+
 In the top right corner of Mod Organizer, click on the Run Button and wait for Cyberpunk 2077 to launch.
+
 Note: the first launch takes a little longer, since REDmod needs to deploy your mods.
+
 Once you get to the main menu, click on HUD Painter and under Presets on the right, select Cyan and press Activate.
 ![image](https://github.com/user-attachments/assets/3f493843-ca73-4e3d-8cbe-a00d3d9d7cc3)
 
@@ -120,34 +132,41 @@ Select a new game and enjoy! (A new game is required! Loading a save that wasn't
 ﻿
 ### Dark Future - Urban Survival Gameplay
 Dark Future is a fully-featured Survival, Gameplay, and Immersion mod with systems for Basic Needs, Anxiety, Addiction, and more.
+
 [Dark Future on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/16300)
 
 ### Limited HUD
 Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
+
 [Limited HUD on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
 ### They Will Remember
 Provide a memory system for the gang factions: They will remember V!
 The more you defeat them, the higher the probability they will turn hostile. Watch your back! Stop slaughtering them and they will forget about you after a while.
+
 [They Will Remember on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/19747)
 
 ### Stock Market and News System
 This mod adds a fully useable stock market system that dynamically reacts to quests and player action. Also adds a news system that shows news based on the game's quests and player actions.
+
 [Stock Market and News System on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/6319)
 
 ### Custom Quickslots
 Adds custom quickslots/hotkeys to the bottom of the screen for consumables, grenades, and cyberware abilities. Fully configurable with in-game menu. Supports controllers and keyboard/mouse.
+
 [Custom Quickslots on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 ### Virtual Atelier
 A framework for other modders, that allows them to add virtual stores in-game for their modded clothes items.
 Also allows the players to preview clothing items on their characters before purchasing in stores, & preview in-game items models in their inventory.
 Virtual Atelier can be accessed from your computer in any of your apartments.
+
 [Virtual Atelier on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 
 ### Virtual Car Dealer
 Very basic framework which allows modders to add any vehicle to a simple virtual shop using TweakXL.
 Virtual Car Dealer can be accessed from your computer in any of your apartments.
+
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
 ## Links
