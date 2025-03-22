@@ -40,6 +40,9 @@ Download REDmod from [Steam](https://store.steampowered.com/app/2060310/Cyberpun
 ### Phantom Liberty
 The paid DLC for Cyberpunk 2077
 
+
+Nexus Premium is recommended, but not required. With 550+ mods, it can take a while to manually download.
+
 ## System Requirements
 
 ### **Minimum Specs**
@@ -60,8 +63,6 @@ The paid DLC for Cyberpunk 2077
 15GB for downloads, 15GB for installation
 
 An SSD is STRONGLY recommended.
-
-Nexus Premium is recommended, but not required. With 550+ mods, it can take a while to manually download.
 
 # Installation Instructions
 
