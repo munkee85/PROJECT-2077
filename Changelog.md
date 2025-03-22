@@ -1,3 +1,86 @@
+## v0.6 Changelog
+### Added
+Apartments Enhanced
+
+Nova Crowds
+
+Crowd E3 2018 Restored
+
+Disable Holocalls Glitches
+
+Headshot Ragdoll
+
+Rancho Coronado House
+
+Rebecca's Apartment
+
+Japantown Apartment View Enhanced
+
+Ford Mustang Shelby GT500
+
+Numerals Get Commas
+
+Better Quality Sort
+
+Combat Revolution
+
+Effects Rendering Fix
+
+Improved Vehicle Lights Draw Distance
+
+Genral Shadow Fixes
+
+Quickhack Fixes
+
+NC Ambient NPC's
+
+Faster Iguana Hatch
+
+### Updates
+TweakXL
+
+The RVCOON Dumpster 2
+
+Tottes Atelier 2
+
+The Bean Trunk Atelier
+
+Hyst Atelier Store
+
+Egghanced Blood Puddles
+
+Named NPC AIO 4K
+
+Berserk Unchained
+
+They Will Remember
+
+Immersive Fixers
+
+Limited HUD
+
+NC Fashion Atelier Store
+
+### Removed
+The Atlantis Restored (Breaks Johnny's Flashback)
+
+No More Duplicate NPCs (Replaced with Nova Crowds)
+
+Damage Scaling (New Combat overhaul)
+
+Enemies of Night City (New Combat overhaul)
+
+Nova Traffic (Crashes. So. Many. Crashes)
+
+Sell Stolen Car Mod (Doesn't work)
+
+Anime Radio (throwing errors in RadioExt)
+
+### Fixes
+Patched Iconic Cyberarm Pack to not give TweakXL errors anymore
+
+Weird textures on Iconic Cyberarm Pack arms
+
 ## v0.5 Changelog
 ### Added
 Combat Revolution (AI Overhaul)
