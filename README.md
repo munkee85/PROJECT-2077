@@ -9,27 +9,27 @@
 PROJECT 2077 aims to take the hassle out of modding, and enhancing your experience in Cyberpunk 2077 by adding in Graphic enhancements, difficulty overhauls, clothes, cars and more!
 The list is tailored to make the experience immersive and make Night City feel more alive while being as performance friendly as possible. 
 
-## Preamble
+## 1. Preamble
 
-### Core Mods:
+### 1.1 Core Mods:
 PROJECT 2077 includes a full compliment of core mods, including Cyber Engine Tweaks﻿, RED4ext﻿, redscript﻿, ArchiveXL﻿, TweakXL﻿, Codeware ﻿and more, to allow you to modify the list to your needs and desires with little effort.
 
-### Graphics:
+### 1.2 Graphics:
 Graphics has been enhanced with a selection of theCyanideX﻿'s Preem mods, along with a custom ReShade for crisp, clean visuals that stay true to the original look and feel of Night City. Weather has also been enhanced with Nova City.
 
-### Gameplay and Immersion:
+### 1.3 Gameplay and Immersion:
 Night City is known for being full of gangs and violence. Experience what Night City was meant to be with more challenging enemies﻿﻿, faction reputation and survival mode﻿. But the NCPD won't let you live lawless with new, beefed up equipment and personnel. But Night City isn't all violence. Experience everyday living with the chooms you make along the way with Night City Interactions, and enjoy a more immersive experience when interacting with vendors and rippers across the city.
 
- ### Wheels and Duds:
+ ### 1.4 Wheels and Duds:
 Need to amp up your style for the streets of Night City? Do so with a large selection of custom clothing, all available from Virtual Atelier. Cruise the streets with a selection of epic new cars available from the Virtual Car Dealer.
 
-### Appearance:
+### 1.5 Appearance:
 PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
 
-### Romance:
+### 1.6 Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
 
-## Requirements
+## 2. Requirements
 
 ### Cyberpunk 2077
 A clean, unmodified installation of Cyberpunk is a hard requirement!
@@ -43,7 +43,7 @@ The paid DLC for Cyberpunk 2077
 
 Nexus Premium is recommended, but not required. With 550+ mods, it can take a while to manually download.
 
-## System Requirements
+## 3. System Requirements
 
 ### **Minimum Specs**
 | CPU        | GPU   |  RAM  |
@@ -64,7 +64,7 @@ Nexus Premium is recommended, but not required. With 550+ mods, it can take a wh
 
 An SSD is STRONGLY recommended.
 
-# Installation Instructions
+# 4. Installation Instructions
 
 _If you are installing the list from the Wabbajack Gallery, do Step 2 and skip ahead to Step 5_
 
@@ -131,51 +131,51 @@ Restart the game.
 ### Step 8: Enjoy!
 Select a new game and enjoy! (A new game is required! Loading a save that wasn't made in this list will cause your arms to fall off)
 
-## Important Mods You Should Know About
+## 5. Important Mods You Should Know About
 ﻿
-### Dark Future - Urban Survival Gameplay
+### 5.1 Dark Future - Urban Survival Gameplay
 Dark Future is a fully-featured Survival, Gameplay, and Immersion mod with systems for Basic Needs, Anxiety, Addiction, and more.
 
 [Dark Future on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/16300)
 
-### Limited HUD
+### 5.2 Limited HUD
 Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.
 
 [Limited HUD on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
-### They Will Remember
+### 5.3 They Will Remember
 Provide a memory system for the gang factions: They will remember V!
 The more you defeat them, the higher the probability they will turn hostile. Watch your back! Stop slaughtering them and they will forget about you after a while.
 
 [They Will Remember on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/19747)
 
-### Stock Market and News System
+### 5.4 Stock Market and News System
 This mod adds a fully useable stock market system that dynamically reacts to quests and player action. Also adds a news system that shows news based on the game's quests and player actions.
 
 [Stock Market and News System on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/6319)
 
-### Custom Quickslots
+### 5.5 Custom Quickslots
 Adds custom quickslots/hotkeys to the bottom of the screen for consumables, grenades, and cyberware abilities. Fully configurable with in-game menu. Supports controllers and keyboard/mouse.
 
 [Custom Quickslots on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
-### Virtual Atelier
+### 5.6 Virtual Atelier
 A framework for other modders, that allows them to add virtual stores in-game for their modded clothes items.
 Also allows the players to preview clothing items on their characters before purchasing in stores, & preview in-game items models in their inventory.
 Virtual Atelier can be accessed from your computer in any of your apartments.
 
 [Virtual Atelier on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 
-### Virtual Car Dealer
+### 5.7 Virtual Car Dealer
 Very basic framework which allows modders to add any vehicle to a simple virtual shop using TweakXL.
 Virtual Car Dealer can be accessed from your computer in any of your apartments.
 
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-## Where DO I Adjust Mod Settings?
+## 6. Where DO I Adjust Mod Settings?
 There are 3 different Mod Settings menus in Project 2077. By default, all the settings are already set up for the optimal Project 2077 experience, but it can be tweaked to your personal tastes, if you wish to do so. This is where you can find the settings for the mods:
 
-## Cyber Engine Tweaks (CET)
+## 6.1 Cyber Engine Tweaks (CET)
 _The hotkey for CET is the one that you are asked to set when you first launch Project 2077_
 _CET also contains the game console, if you add any mods that require console commands_
 
@@ -191,7 +191,7 @@ Nova Crowds (I recommend leaving the settings of this as is, since changing thin
 
 Auto Neon Rims (When you're on a bike, you can modify the neon rims here and this also turns them on by default)
 
-## Mods
+## 6.2 Mods
 _This menu can be accessed from the main menu or pause menu_
 
 Smart Weapons, Ricochet (Adjustments to weapon handling and behavior mods)
@@ -212,7 +212,7 @@ Ract to Horn (I recommend leaving the settings in it's default state to prevent 
 
 Night Vision CW (Change the hotkey for Night Vision (Default F3). Note: Night Vision is only available when optics are Tier 3 or higher)
 
-## Mod Settings
+## 6.3 Mod Settings
 
 _This menu can be accessed from the main menu or pause menu_
 
@@ -246,7 +246,7 @@ Trigger Control (Recommend leaving all these settings off by default for best re
 
 ECraft (A few settings for Weapon Crafting)
 
-## Links
+## 7. Links
 [PROJECT 2077 Discord](https://discord.gg/pXqE2rnNRn)
 
 [PROJECT 2077 Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/19807)
