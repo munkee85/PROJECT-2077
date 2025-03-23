@@ -31,7 +31,7 @@ The list is tailored to make the experience immersive and make Night City feel m
    6.1 [Cyber Engine Tweaks(CET)](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#61-cyber-engine-tweaks-cet)  
    6.2 [Mods](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#62-mods)  
    6.3 [Mod Settings](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#63-mod-settings)  
-7 [Links](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#7-links)
+7. [Links](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#7-links)
 
 ## 1. Preamble
 
