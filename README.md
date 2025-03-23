@@ -172,6 +172,80 @@ Virtual Car Dealer can be accessed from your computer in any of your apartments.
 
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
+## Where DO I Adjust Mod Settings?
+There are 3 different Mod Settings menus in Project 2077. By default, all the settings are already set up for the optimal Project 2077 experience, but it can be tweaked to your personal tastes, if you wish to do so. This is where you can find the settings for the mods:
+
+## Cyber Engine Tweaks (CET)
+_The hotkey for CET is the one that you are asked to set when you first launch Project 2077_
+_CET also contains the game console, if you add any mods that require console commands_
+
+Nova City Tools (Weather)
+
+Appearance Menu Mod (In P77, this is only used for compatibility, but if you add any photo mode mods, this menu will become useful)
+
+CP77 DiscordRPC 2 (Discord Rich Presence Client)
+
+The Lamp Lighter (Streetlamo Time Scaler)
+
+Nova Crowds (I recommend leaving the settings of this as is, since changing things in here can cause instability and performance hits)
+
+Auto Neon Rims (When you're on a bike, you can modify the neon rims here and this also turns them on by default)
+
+## Mods
+_This menu can be accessed from the main menu or pause menu_
+
+Smart Weapons, Ricochet (Adjustments to weapon handling and behavior mods)
+
+Vehicle Speed Limit (Adjusting the Speed limit presets. This is used when pressing LShift while driving and uses Num1, Num2 and Num3 by default to switch presets)
+
+Dark Mods (Deactivate Auto Neon Rims and adjust settings for Hidden Gems)
+
+QSlots (Changing the preset items that populate the quickslots)
+
+The Passenger (Adjusting settings for Johnny randomly spawning in your car)
+
+Lean Anywhere (This mod is activated when scanning railings, low walls, etc to lean on. Good for screen archery)
+
+Gambling System (Immersion settings for the gambling mods)
+
+Ract to Horn (I recommend leaving the settings in it's default state to prevent pedestrians from reacting too erratically)
+
+Night Vision CW (Change the hotkey for Night Vision (Default F3). Note: Night Vision is only available when optics are Tier 3 or higher)
+
+## Mod Settings
+
+_This menu can be accessed from the main menu or pause menu_
+
+Weapon Handling Control (Keep at default for best results. Has some cheats built in too, if you want them)
+
+Virtual Atelier (Some ease of use settings)
+
+Numerals Get Commas (Adjust how the commas look and where they're used)
+
+First Equip (How often the first equip animation is used)
+
+LHUD (Adjust the settings for Limited HUD. Default HUD toggle is F8)
+
+They Will Remember (Recommended settings are already set, but if you find it makes the game too difficult, alter the settings here)
+
+General Shadow Fixes (Recommend leaving it Enabled)
+
+LHUD Addons (More HUD settings. The custom colors get overridden by HUDPainter, so those settings are not useful)
+
+HUD Painter (These Settings are for the map colors. Recommend leaving as is to fit the aesthetic the Cyan preset for the menus and HUD)
+
+QuickMelee (Adjust settings for Melee actions (Set in your keybinds)
+
+Responsive NPCs (Adjust NPC reactions to certain triggers)
+
+Dark Future (Adjust Survival Mechanics)
+
+Taxi Work in Night City (Adjust the settings for being a taxi driver)
+
+Trigger Control (Recommend leaving all these settings off by default for best results. Default key to switch between firing modes is T)
+
+ECraft (A few settings for Weapon Crafting)
+
 ## Links
 [PROJECT 2077 Discord](https://discord.gg/pXqE2rnNRn)
 
