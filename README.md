@@ -9,6 +9,30 @@
 PROJECT 2077 aims to take the hassle out of modding, and enhancing your experience in Cyberpunk 2077 by adding in Graphic enhancements, difficulty overhauls, clothes, cars and more!
 The list is tailored to make the experience immersive and make Night City feel more alive while being as performance friendly as possible. 
 
+1. [Preamble](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#1-preamble)  
+   1.1 [Core Mods](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#11-core-mods)  
+   1.2 [Graphics](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#12-graphics)  
+   1.3 [Gameplay and Immersion](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#13-gameplay-and-immersion)  
+   1.4 [Wheels and Duds](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#14-wheels-and-duds)  
+   1.5 [Appearance](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#15-appearance)  
+   1.6 [Romance](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#16-romance)  
+2. [Requirements](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#2-requirements)  
+3. [System Requirements](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#3-system-requirements)  
+4. [Installation Instructions](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#4-installation-instructions)  
+5. [Important Mods You Should Know About](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#5-important-mods-you-should-know-about)  
+   5.1 [Dark Future - Urban Survival Gameplay](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#51-dark-future---urban-survival-gameplay)  
+   5.2 [Limited HUD](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#52-limited-hud)  
+   5.3 [They Will Remember](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#53-they-will-remember)  
+   5.4 [Stock Market and news System](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#54-stock-market-and-news-system)  
+   5.5 [Custom Quickslots](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#55-custom-quickslots)  
+   5.6 [Virtual Atelier](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#56-virtual-atelier)  
+   5.7 [Virtual Car Dealer](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-virtual-car-dealer)  
+6. [Where Do I Adjust Mod Settings?](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#6-where-do-i-adjust-mod-settings)  
+   6.1 [Cyber Engine Tweaks(CET)](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#61-cyber-engine-tweaks-cet)  
+   6.2 [Mods](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#62-mods)  
+   6.3 [Mod Settings](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#63-mod-settings)  
+7 [Links](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#7-links)
+
 ## 1. Preamble
 
 ### 1.1 Core Mods:
@@ -172,7 +196,7 @@ Virtual Car Dealer can be accessed from your computer in any of your apartments.
 
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-## 6. Where DO I Adjust Mod Settings?
+## 6. Where Do I Adjust Mod Settings?
 There are 3 different Mod Settings menus in Project 2077. By default, all the settings are already set up for the optimal Project 2077 experience, but it can be tweaked to your personal tastes, if you wish to do so. This is where you can find the settings for the mods:
 
 ## 6.1 Cyber Engine Tweaks (CET)
