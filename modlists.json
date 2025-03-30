@@ -16,7 +16,7 @@
       "Survival",
       "Beta"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
