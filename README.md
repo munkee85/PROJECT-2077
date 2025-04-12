@@ -48,7 +48,7 @@ Night City is known for being full of gangs and violence. Experience what Night 
 Need to amp up your style for the streets of Night City? Do so with a large selection of custom clothing, all available from Virtual Atelier. Cruise the streets with a selection of epic new cars available from the Virtual Car Dealer.
 
 ### 1.5 Appearance:
-PROJECT 2077 uses Hyst's EBBRB﻿ for Female V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
+PROJECT 2077 uses Hyst's EBBPRB﻿ for Female V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
 
 ### 1.6 Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
@@ -203,7 +203,7 @@ There are 3 different Mod Settings menus in Project 2077. By default, all the se
 _The hotkey for CET is the one that you are asked to set when you first launch Project 2077_
 _CET also contains the game console, if you add any mods that require console commands_
 
-Nova City Tools (Weather)
+Weather Switcher (Weather)
 
 Appearance Menu Mod (In P77, this is only used for compatibility, but if you add any photo mode mods, this menu will become useful)
 
@@ -214,6 +214,8 @@ The Lamp Lighter (Streetlamo Time Scaler)
 Nova Crowds (I recommend leaving the settings of this as is, since changing things in here can cause instability and performance hits)
 
 Auto Neon Rims (When you're on a bike, you can modify the neon rims here and this also turns them on by default)
+
+They Will Remember (For checking the the faction attitude and Disguise percentage)
 
 ## 6.2 Mods
 _This menu can be accessed from the main menu or pause menu_
@@ -235,6 +237,8 @@ Gambling System (Immersion settings for the gambling mods)
 Ract to Horn (I recommend leaving the settings in it's default state to prevent pedestrians from reacting too erratically)
 
 Night Vision CW (Change the hotkey for Night Vision (Default F3). Note: Night Vision is only available when optics are Tier 3 or higher)
+
+VW_Beetle (Recommend using CET for changing the Beetle settings. It's a bit more convenient)
 
 ## 6.3 Mod Settings
 
