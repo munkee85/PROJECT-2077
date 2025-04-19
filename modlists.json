@@ -9,12 +9,11 @@
     "game": "cyberpunk2077",
     "official": false,
     "tags": [
-      "immersion",
-      "balancing",
+      "Immersion",
+      "Combat Overhaul",
       "REDmod",
       "Phantom Liberty",
-      "Survival",
-      "Beta"
+      "Survival"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -22,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/munkee85/PROJECT-2077/main/Project2077.webp",
+      "image": "https://raw.githubusercontent.com/munkee85/PROJECT-2077/main/Project_2077.webp",
       "readme": "https://github.com/munkee85/PROJECT-2077/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Project 2077.wabbajack_97a0f09a-f468-4a7f-aee0-2a404551f8b3",
       "machineURL": "PROJECT-2077",
