@@ -1,6 +1,6 @@
 # PROJECT-2077
 
-![alt text](https://i.imgur.com/MJ9C7XA.png)
+![alt text](https://i.imgur.com/mpKOTaE.png)
 
 
 ## Welcome to PROJECT 2077
