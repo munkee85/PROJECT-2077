@@ -2,6 +2,9 @@
 +PROJECT 2077 - settings
 +Discord RPC 2
 -LATE LOADERS_separator
++Combat Revolution - Rebalance Patch
+-Clock Widget - 24 hour clock patch
+-OPTIONAL MODS AND PATCHES_separator
 +I Really Want To Stay At Your House - Judy
 +I Really Want To Stay At Your House - Panam
 +I Really Want To Stay At Your House - Kerry
@@ -23,6 +26,7 @@
 +Judy Romance Message Mod
 -ROMANCE ENHANCEMENTS_separator
 +External Radio
++107.9 Synthesis Radio (with female DJ and male news anchor)
 +RadioEXT - BoBo Radio - 24-7 Live Radio Station For Cyberpunk 2077 -
 +50.1 Night Drive Radio
 +66.6FM Scythelord (Metal) RadioEXT
@@ -43,6 +47,13 @@
 +Tap T
 +Trigger Mode Control
 -WEAPONS_separator
++Authentic Shift (QoL Gear Ratios Shifts Audio Sound ASMR and OPTIONAL Tuning System)
++Delamain Combat Mode
++Nilu 27
++Cyber Kart Nomad Edition
++Cyber Kart
++Volkswagen Super Beetle 1971
++Bikes of the Dark Future --- Arch V4
 +Ford Mustang Shelby GT500
 +Ford Mustang Legendary Customs
 +Nissan Skyline GTR R34 HYCADE Bodykit
@@ -58,7 +69,6 @@
 +Bmw M1000RR
 +Lamborghini Veneno
 +Lamborghini Evo 2
-+Delamain No. 22
 +Cyberpunk Bikes - Edge
 +Mustang GTD
 +Jaguar XJ13
@@ -80,11 +90,13 @@
 +2021 Lexus LC 500 Liberty Walk
 +2017 Nissan GTR R35
 +2017 Mercedes AMG GT R
++Vehicle Resources
 +Vehicle Manufacturers Resource
 +Motorclub - custom engine sounds for modders
 +InfiniteWave - car sound framework
 +Auto On Neon Rims and Custom Colors
 -VEHICLES_separator
++Seductive Crimson - FEM V (Archive XL)
 +XRX GymSuit Archive XL
 +Unitard Suit - FEM V (Archive XL)
 +Cyber Rebel - FEM V (Archive XL)
@@ -177,26 +189,26 @@
 +Mileena Hungry Hipster Outfit (Archive XL - ACM - Prop - FemV)
 +Mai Shiranui Biker Outfit (Archive XL -FemV)
 +Samurai Outfit - Fem V
-+The RVC00N Dumpster - Zombie Slayer Jacket (M-F) (GS) (Archive XL) EBB
++The RVC00N Dumpster - Zombie Slayer Jacket (M-F) (GS) (Archive XL) EBBP
 +The RVC00N Dumpster - Zombie Slayer Jacket (M-F) (GS) (Archive XL)
 +MESH - EBBRB and EBBPRB (F) (GS)
 +The RVC00N Dumpster - Virgin Flatliner Sweater (M-F) (GS) (AXL)
 +The RVC00N Dumpster - Vinyl Platform Boots (M-F) (GS) (Archive XL)
 +MESH - RB (F)
 +The RVC00N Dumpster - Trashy Vinyl Pants (M-F) (GS) (Archive XL)
-+MESH - EBB (F)
++The RVC00N Dumpster - Trashy Top (F) - EBBP (Archive XL)
 +The RVC00N Dumpster - Trashy Top (F) (Archive XL)
 +Stinky Slouch Vest (M) (GS)
 +Stinky Slouch Sneakers (M) (GS)
 +The RVC00N Dumpster - Stinky Slouch Set (M) (GS) (AXL)
-+The RVC00N Dumpster - Stinky Slashed Top (M-F) (GS) (Archive XL) EBB
++The RVC00N Dumpster - Stinky Slashed Top (M-F) (GS) (Archive XL) EBBP
 +The RVC00N Dumpster - Stinky Slashed Top (M-F) (GS) (Archive XL)
 +The RVC00N Dumpster - Stinky Racerback Set (M-F) (GS) (AXL)
 +The RVC00N Dumpster - Stinky Mechanic Pants (M-F) (GS) (AXL)
 +The RVC00N Dumpster - Aldecaldos Unbuckled Jacket (M) (GS) (AXL)
 +The RVC00N Dumpster - Aldecaldos Rolled Jacket (M-F) (GS) (AXL)
 +The RVC00N Dumpster - Yeehaw Opened Shirt (M) (GS) (AXL)
-+MESH - EBB (F) (GS)
++The RVC00N Dumpster - Stinky CropTop (F) (GS) - EBBP (Archive XL)
 +The RVC00N Dumpster - Stinky CropTop (F) (GS) (Archive XL)
 +MESH - Hyst (EBB-EBBP-RB) (F)
 +The RVC00N Dumpster - Spy Long Coat (F) (GS) (Archive XL)
@@ -234,7 +246,7 @@
 +The RVC00N Dumpster - Goliath Jacket (M) (Archive XL)
 +The RVC00N Dumpster - Denny's Corset Shirt (M) (Archive XL)
 +The RVC00N Dumpster - David Martinez Pants (M) (Archive XL)
-+MESH - EBBRB (F)
++The RVC00N Dumpster - Fancy Wrinkle Dress (F) - EBBPRB(Archive XL)
 +The RVC00N Dumpster - Fancy Wrinkle Dress (F) (Archive XL)
 +The RVC00N Dumpster - Yeehaw Fringe Vest (M) (GS) (AXL)
 +The RVC00N Dumpster - Tight Shiny Pants (F) (Archive XL) - RB (F)
@@ -245,9 +257,9 @@
 +The RVC00N Dumpster - Stinky BootCut Jeans (M) (GS) (AXL)
 +The RVC00N Dumpster - Speed Addict Sport Panties (F) (Archive XL) - Realistic Big Butt (F)
 +The RVC00N Dumpster - Speed Addict Sport Panties (F) (Archive XL)
-+The RVC00N Dumpster - Speed Addict Sport Bra (F) (Archive XL) - Enhanced Big Boobs (F)
++The RVC00N Dumpster - Speed Addict Sport Bra (F) (Archive XL) - EBBP (F)
 +The RVC00N Dumpster - Speed Addict Sport Bra (F) (Archive XL)
-+The RVC00N Dumpster - Silky Lace Bodysuit (F) (Archive XL) - EBB and RB (F)
++The RVC00N Dumpster - Silky Lace Bodysuit (F) (Archive XL) - EBBPRB (F)
 +The RVC00N Dumpster - Silky Lace Bodysuit (F) (Archive XL)
 +The RVC00N Dumpster - Short Windbreaker Jacket (M) (Archive XL)
 +The RVC00N Dumpster - Rogue Jacket (M-F) (GS) (AXL)
@@ -277,7 +289,7 @@
 +The RVC00N Dumpster - Fancy Unbuttoned Shirt (M) (Archive XL)
 +The RVC00N Dumpster - Fancy Striped Skirt (F) (Archive XL) - Hyst Realistic Big Butt (F)
 +The RVC00N Dumpster - Fancy Striped Skirt (F) (Archive XL)
-+The RVC00N Dumpster - Fancy Striped Dress (F) (Archive XL) - Hyst EBB and RB (F)
++The RVC00N Dumpster - Fancy Striped Dress (F) (Archive XL) - Hyst EBBPRB (F)
 +The RVC00N Dumpster - Fancy Striped Dress (F) (Archive XL)
 +The RVC00N Dumpster - Fancy Blazer (M-F) (GS) (AXL)
 +The RVC00N Dumpster - Dad Shirt (M) (GS) (Archive XL)
@@ -285,7 +297,7 @@
 +Dad Shirt - Vanilla Body (F) (GS)
 +The RVC00N Dumpster - Cross Top (M F) (Archive XL) - Enhanced Big Breast
 +The RVC00N Dumpster - Cross Top (M F) (Archive XL)
-+The RVC00N Dumpster - Cotton CropTop (F) (GS) (Archive XL) - EBB (F)
++The RVC00N Dumpster - Cotton CropTop (F) (GS) (Archive XL) - EBBP (F)
 +The RVC00N Dumpster - Cotton CropTop (F) (GS) (Archive XL)
 +The RVC00N Dumpster - Comfy Sweater (M) (Archive XL)
 +The RVC00N Dumpster - CityBoy Cargo Pants (M) (GS) (Archive XL)
@@ -293,9 +305,9 @@
 +The RVC00N Dumpster - Chromed Long Blouse (F) (Archive XL)
 +The RVC00N Dumpster - Candy Hoodie (M-F) (Archive XL) - Enhanced Big Boobs (F)
 +The RVC00N Dumpster - Candy Hoodie (M-F) (Archive XL)
-+The RVC00N Dumpster - Candy Dress (F) (Archive XL) - EBB
++The RVC00N Dumpster - Candy Dress (F) (Archive XL) - EBBP
 +The RVC00N Dumpster - Candy Dress (F) (Archive XL)
-+The RVC00N Dumpster - Candy Croptop (M-F) (GS) (AXL) - Enhanced Big Breast
++The RVC00N Dumpster - Candy Croptop (M-F) (GS) (AXL) - EBBP
 +The RVC00N Dumpster - Candy Croptop (M-F) (GS) (AXL)
 +The RVC00N Dumpster - Boho Pufftop (F) (Archive XL) - Enhanced Big Boobs (F)
 +The RVC00N Dumpster - Boho Pufftop (F) (Archive XL)
@@ -305,7 +317,7 @@
 +The RVC00N Dumpster - Boho Dress (F) (Archive XL)
 +The RVC00N Dumpster - Boho Croptop (F) (Archive XL) - Enhanced Big Breasts
 +The RVC00N Dumpster - Boho Croptop (F) (Archive XL)
-+The D4D Store - Dad Shirts (M-F) (GS) (AXL) - EBB(F)
++The D4D Store - Dad Shirts (M-F) (GS) (AXL) - EBBP(F)
 +Dad Shirt - Tropical - Vanilla Body (M-F) (GS)
 +Dad Shirt - Floral - Vanilla Body (M-F) (GS)
 +Dad Shirt - Desert - Vanilla Body (M-F) (GS)
@@ -319,7 +331,6 @@
 +DBRV - Yaahl-Tech Shorts - Archive XL - Female V
 +Yaahl-Tech Combat Pants
 +DBRV - Yaahl-Tech Combat Pants with Knife - Archive XL - Female V and Male V
-+Yaahl-Tech Boots - Slim - MV
 +DBRV - Yaahl-Tech Boots - Archive XL - Female V and Male V
 +DBRV - XTX Sneakers - Female V and Male V - Archive XL
 +DBRV - TECHTOPIA Tacticool Pants - Archive XL - Female V
@@ -329,12 +340,11 @@
 +TECHTOPIA 2048 - Gloves - Male V
 +DBRV - TECHTOPIA 2048 - Forgotten Tech - Gloves Archive XL - Female V and Male V
 +David Martinez Jacket Refited for Hyst Bodies mods
-+All 96 Vanilla Bustiers - Phrensie's Phrenetic Phinery (Archive XL)
-+Open Road - Techwear Layered Top - Fem - EBB_(F)
++Open Road - Techwear Layered Top - Fem - EBBP(F)
 +Open Road - Techwear Layered Top - Fem
 +Open Road - Boho Shirt - Masc V
 +Open Road - Boho Pants - Masc V
-+Open Road - Belted Denim Top - Fem - EBB (F)
++MESH - EBBP (F)
 +Open Road - Belted Denim Top - Fem
 +Johnny's Alt Boots
 +Spike Vest - BOOBABUTT
@@ -366,8 +376,8 @@
 +(ANE) Rogue Boots - Volume 1 - Archive XL
 +(ANE) Sleeveless netrunner suits - Volume 1 - Archive XL HYST
 +(ANE) Sleeveless netrunner suits - Volume 1 - Archive XL
-+Phantom Liberty Vanilla Clothes Refits for Enhanced Big Breast
-+Vanilla Clothes Refits for Enhanced Big Breast
++Phantom Liberty - PUSH UP - Vanilla Clothes refits
++Vanilla Clothes for ENHANCED BIG BREASTS PUSH UP
 +The Community Palette Project
 +Microblend Resource
 +Equipment-EX
@@ -388,7 +398,7 @@
 +Hair Profiles CCXL
 +VTK Vanilla HD Body for FemV - High Resolution Mesh and Textures - Plus Resources
 +VTK - Ava's 4k Body Textures
-+Hyst_BigBreastsBody - with BIG BOOTY (EBBRB)
++PUSH UP - Enhanced Big Breasts Body Mod (EBBP)
 +-KS- UV Texture Framework
 +Appearance Change Unlocker - Character Preset Manager (2.2 Update in Progress)
 -PC APPEARANCE_separator
@@ -425,7 +435,6 @@
 +Dressify - Atelier Store for Hyst's body refits
 +DBRV n Co Virtual Atelier Store - Male V
 +DBRV n Co Virtual Atelier Store - Female V
-+Phrensie's Phrenetic Phinery (Archive XL Virtual Atelier)
 +Open Road Emporium - Virtual Atelier Store
 +Silver Breezy - Virtual Atelier Store
 +ANE - Anrui's Netrunner Emporium - Virtual Atelier Store
@@ -455,6 +464,7 @@
 +Apartment Cats - Northside Motel
 +Apartment Cats - Japantown
 -CATS!_separator
++coffee maker and drink for dogtown
 +Coffee maker and drink for other apartments
 +More Climbable Objects
 +Nova Crowds (CET - Randomized Crowds and Increased Density)
@@ -488,6 +498,8 @@
 +Headshot Ragdoll
 +Ragdoll Physics Overhaul
 -IMMERSION_separator
++Auto Unequip Weapon Mods And Attachments When Selling Or Disassembling
++The Weapons ARE NOT broken 2.1
 +Faster Iguana Hatch
 +Better Quality Sort
 +Numerals Get Commas
@@ -509,15 +521,17 @@
 +Stealth Finishers (ZKV_Takedowns)
 +Ultimate Kill Counter (2.21 Supported)
 +Law Enforcement Overhaul
-+Combat Revolution - glowing eyes fix
++Jackie fix
 +Combat Revolution(AI Overhaul and High-Stakes)
 -COMBAT_separator
 +Taxi Work Locations Expanded
 +Taxi Work in Night City
 +E3 Smart Windows
++Stock Market and News System(Revisited)
 +Stock Market and News System
 +Artistic
 +Enhanced Craft
++NCI Addon - City Center
 +NCI Addon - Watson
 +NCI Addon - Westbrook
 +NCI Addon - Heywood
@@ -531,6 +545,9 @@
 +NIGHT CITY ALIVE (REDmod)
 +New Lifepath Intro - Fresh Start
 -GAMEPLAY_separator
++Car Modification Shop AchiveXL Preset
++Car Modification Shop
++THE GLEN PROJECT - Smartframe
 +THE GLEN PROJECT. AXL
 +Rancho Coronado House DLC
 +Rebeccas Apartment DLC
@@ -544,6 +561,9 @@
 +Underground Casino ( Working Roulette )
 +1- Apartments Enhanced CORE
 -LOCATIONS_separator
++2. HUD Positions
++Streamlined HUD
++ClockWidget
 +Limited HUD
 +Preem Map
 +HUD Painter - Cyan Preset
@@ -551,11 +571,13 @@
 +Preem Scanner - Monochrome Addon
 +Preem Scanner (Customization Options for a Clean Minimal Scanner)
 +Preem Menu (No Blur)
++Fresh Main Menu Music
 +PROJECT 2077 Loading Screens
 +PROJECT 2077 Breach Screen
 -HUD AND MENUS_separator
 +The Lamp Lighter - Streetlamp Time Control
-+Nova City (Custom Weather - Beta)
++Weather Switcher (Change Weather - Control Time - Customize Clouds)
++Nova City 2
 +PROJECT 2077 ReShade
 +ReShade
 +Nova LUT 2 - Supernova (AgX - HDR Support)
@@ -569,17 +591,22 @@
 +Glass - Blur Remove
 +Blur Begone (Clear Materials with Refraction)
 +Dirt Begone (Clean Mirrors)
-+Preem Water 2.0 - Canon
 +Enable Advert Animations (Ads)
-+Preem Fixes - Metal
-+Preem Fixes - Cloth
++All adverts in 4K quality
 +Load Begone
 -VISUALS_separator
++Faster Rainmap and Distant Shadows
++Improved Distant Shadows (Volumetric Fog Leaking Fixed)
++Immersive Night City Fixes
 +Quickhack Fixes
 +General Shadows Fixes
 +Improved Vehicle Lights Draw Distance
 +Effects Rendering Fix
 +Deceptious Bug Fixes
++Preem Fixes - Little China
++Preem Fixes - Metal
++Preem Fixes - Cloth
++Inplace Streamingsectors Nulled
 +Dogtown Location Visuals Nulled - a general fix for lighting mods
 +Night City Visuals Nulled
 -GENERAL FIXES_separator
@@ -592,9 +619,8 @@
 +Codeware
 +TweakXL
 +ArchiveXL
-+cybercmd
 +redscript
 +RED4ext
 +Cyber Engine Tweaks
 -CORE MODS_separator
--PROJECT UNLEASED - PROJECT 2077 - v0.6_separator
+-PROJECT UNLEASED - PROJECT 2077 - v1.0_separator
