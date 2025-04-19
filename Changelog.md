@@ -1,3 +1,206 @@
+## v1.0 Changelog
+
+### Added
+Tottes Seductive Crimson
+
+All adverts in 4k Quality
+
+Cyber Kart
+
+Cyber Kart - Nomad Edition
+
+Car Modification Shop
+
+Car Modification Shop ArchiveXL Preset
+
+Delamain Combat Mode (Formerly Delamain No. 22)
+
+Night City Interactions Addon - City Center
+
+Nilu 27
+
+### Updated
+Tottes Atelier 2
+
+Extra Iconics
+
+Trigger Mode Control
+
+Keep Drawing the Line
+
+Coffee Maker and Drink for Dogtown
+
+Limited HUD
+
+Keep Drawing The Line
+
+Combat Revolution
+
+Lizzie's Braindances
+
+Nova City 2
+
+Dark Future
+
+Night City Interactions
+
+Immersive Night City Fixes
+
+### Fixes
+Fixed Preem Map not displaying the correct colors
+
+Added a temporary rebalance patch for Combat Revolution
+
+## v0.9 Changelog
+
+### Added
+The Glen Project Smartframe Pack
+
+Volkswagen Super Beetle 1971
+
+Coffee Maker and Drink for Dogtown
+
+Preem Fixes - Little China
+
+### Updated
+The Glen Project
+
+Immersive Night City Fixes
+
+Synthesis Radio
+
+Deceptious Bug Fixes
+
+They Will Remember
+
+Combat Revolution
+
+Fresh Start
+
+S2Js Atelier
+
+Pachinko Button
+
+Mayo Virtual Atelier
+
+Quickhack Fixes
+
+Weather Switcher
+
+Hyst Atelier Store
+
+MELUMINARY HAIR COLLECTION
+
+General Shadows Fixes
+
+Lizzie's Braindances
+
+## v0.8 Changelog
+
+### Added
+Improved Distant Shadows
+
+Faster Rainmap and Distant Shadows
+
+Authentic Shift
+
+Hyst's EBBPRB
+
+Weather Switcher
+
+107.9 Synthesis Radio
+
+### Updated
+Quickhack Loadouts
+
+Deceptious Bug Fixes
+
+The RVC00N Dumpster 2
+
+Immersive Night City Fixes
+
+Virtual Atelier
+
+NC Fashion Virtual Atelier
+
+Nova City 2
+
+Combat Revolution (Updated with No Stun version)
+
+Dusty Virtual Atelier
+
+Lizzie's Braindances
+
+They Will Remember
+
+EconomyPunk
+
+### Removed
+cybercmd (redundant)
+
+EBBRB (swapped out for Push Up version)
+
+Delamain No. 22 (It's busted)
+
+Phrensie's Phrenetic Phinery (Incompatible) (edited)
+
+## v0.7 Changelog
+### Added
+The Weapons ARE NOT broken 2.1
+
+Bikes of the Dark Future
+
+Clock Widget
+
+Streamlined HUD
+
+Konpeki Plaza Expanded Minimalist
+
+Immersive Night City Fixes
+
+Auto Unequip Weapon Mods And Attachments When Selling Or Disassembling
+
+### Updates
+The Glen Project
+
+Immersive Food Vendors - Dogtown
+
+Black Chrome
+
+DBRV n Co Virtual Atelier
+
+Underground Casino
+
+Trigger Mode Control
+
+Dusty Virtual Atelier
+
+Discobot's Boutique
+
+Subleader Hair Pack
+
+Cyberware-EX
+
+Immersive Bartenders
+
+Hangout Romances
+
+Lizzie's Braindances
+
+Tottes Atelier Shop 2
+
+Combat Revolution
+
+Coffee maker and drink for other apartments
+
+### Removed
+Preem Water 2.0 (Vanilla water looks better)
+
+Konpeki Plaza Expanded (It's tacky)
+
+### Fixes
+Created a patch to prevent the stock market from constantly resetting due to an overflow error.
+
 ## v0.6 Changelog
 ### Added
 Apartments Enhanced
