@@ -1,6 +1,33 @@
 ## v1.0 Changelog
 
 ### Added
+Safehouse Drop Points
+
+### Updated
+EconomyPunk
+
+Nilu 27
+
+They Will Remember
+
+Tottes Atelier Shop 2
+
+Immersive Night City Fixes
+
+Taxi Work Locations Expanded
+
+Virtual Car Dealer
+
+Lizzie's Braindances
+
+Tottes Atelier 2
+
+### Fixes
+Patched the OmniTech Odin Optics to have Night Vision capabilities too
+
+## v1.0 Changelog
+
+### Added
 Tottes Seductive Crimson
 
 All adverts in 4k Quality
