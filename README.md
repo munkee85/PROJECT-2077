@@ -97,7 +97,7 @@ _If you are installing using the Nexus Mods file, follow ALL instructions carefu
 ### Step 1: Downloads
 Download the Wabbajack installer.
 
-Download the Project 2077.zip file from the downloads section on this page.
+Download the Project 2077.zip file from the downloads section on Nexus.
 ﻿
 ### Step 2: Create Folder Structure
 Create a folder in your drive root called Wabbajack (example: C:\Wabbajack)
