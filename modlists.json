@@ -7,12 +7,13 @@
       "github/munkee85"
     ],
     "game": "cyberpunk2077",
-    "official": false,
+    "official": true,
     "tags": [
-      "Immersion",
+      "Official",
       "Combat Overhaul",
       "REDmod",
       "Phantom Liberty",
+      "Immersion",
       "Survival"
     ],
     "nsfw": false,
