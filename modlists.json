@@ -24,23 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/munkee85/PROJECT-2077/main/Project_2077.webp",
       "readme": "https://github.com/munkee85/PROJECT-2077/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Project 2077.wabbajack_27b81050-b0f7-4c82-aaef-f97383ba76f7",
+      "download": "https://authored-files.wabbajack.org/Project 2077.wabbajack_3fe6ea83-b4fc-4d40-8d80-027250c33324",
       "machineURL": "PROJECT-2077",
       "discordURL": "https://discord.gg/pXqE2rnNRn",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "HRG2jqyw440=",
-      "Size": 5852265,
-      "NumberOfArchives": 631,
-      "SizeOfArchives": 19574785206,
-      "NumberOfInstalledFiles": 6011,
-      "SizeOfInstalledFiles": 19547240917,
-      "TotalSize": 39122026123
+      "Hash": "Y/8bqORHYYY=",
+      "Size": 5855151,
+      "NumberOfArchives": 639,
+      "SizeOfArchives": 19759037359,
+      "NumberOfInstalledFiles": 6019,
+      "SizeOfInstalledFiles": 19547895517,
+      "TotalSize": 39306932876
     },
-    "version": "2.1",
+    "version": "2.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-06T00:44:06.6846015Z",
+    "dateUpdated": "2025-07-13T17:38:44.9223084Z",
     "repositoryName": ""
   }
 ]
