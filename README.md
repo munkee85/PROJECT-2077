@@ -27,7 +27,7 @@ The list is tailored to make the experience immersive and make Night City feel m
    5.5 [Custom Quickslots](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#55-custom-quickslots)  
    5.6 [Virtual Atelier](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#56-virtual-atelier)  
    5.7 [Virtual Car Dealer](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-virtual-car-dealer)
-   5.8 [LUT Switcher 2](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-lut-switcher-2)
+   5.8 [LUT Switcher 2](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-virtual-car-dealer)
 7. [Where Do I Adjust Mod Settings?](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#6-where-do-i-adjust-mod-settings)  
    6.1 [Cyber Engine Tweaks(CET)](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#61-cyber-engine-tweaks-cet)  
    6.2 [Mods](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#62-mods)  
