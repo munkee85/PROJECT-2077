@@ -26,12 +26,13 @@ The list is tailored to make the experience immersive and make Night City feel m
    5.4 [Stock Market and news System](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#54-stock-market-and-news-system)  
    5.5 [Custom Quickslots](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#55-custom-quickslots)  
    5.6 [Virtual Atelier](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#56-virtual-atelier)  
-   5.7 [Virtual Car Dealer](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-virtual-car-dealer)  
-6. [Where Do I Adjust Mod Settings?](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#6-where-do-i-adjust-mod-settings)  
+   5.7 [Virtual Car Dealer](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-virtual-car-dealer)
+   5.8 [LUT Switcher 2](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#57-lut-switcher-2)
+7. [Where Do I Adjust Mod Settings?](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#6-where-do-i-adjust-mod-settings)  
    6.1 [Cyber Engine Tweaks(CET)](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#61-cyber-engine-tweaks-cet)  
    6.2 [Mods](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#62-mods)  
    6.3 [Mod Settings](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#63-mod-settings)  
-7. [Links](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#7-links)
+8. [Links](https://github.com/munkee85/PROJECT-2077/blob/main/README.md#7-links)
 
 ## 1. Preamble
 
@@ -39,7 +40,7 @@ The list is tailored to make the experience immersive and make Night City feel m
 PROJECT 2077 includes a full compliment of core mods, including Cyber Engine Tweaks﻿, RED4ext﻿, redscript﻿, ArchiveXL﻿, TweakXL﻿, Codeware ﻿and more, to allow you to modify the list to your needs and desires with little effort.
 
 ### 1.2 Graphics:
-Graphics has been enhanced with a selection of theCyanideX﻿'s Preem mods, along with a custom ReShade for crisp, clean visuals that stay true to the original look and feel of Night City. Weather has also been enhanced with Nova City.
+Graphics has been enhanced with a selection of theCyanideX﻿'s Preem mods, along with RenoDX for crisp, clean visuals that stay true to the original look and feel of Night City. Weather has also been enhanced with Nova City 2. Also included is LUT Switcher 2 with loads of preloaded LUTs to enhance the atmosphere﻿ to your liking!
 
 ### 1.3 Gameplay and Immersion:
 Night City is known for being full of gangs and violence. Experience what Night City was meant to be with more challenging enemies﻿﻿, faction reputation and survival mode﻿. But the NCPD won't let you live lawless with new, beefed up equipment and personnel. But Night City isn't all violence. Experience everyday living with the chooms you make along the way with Night City Interactions, and enjoy a more immersive experience when interacting with vendors and rippers across the city.
@@ -196,6 +197,11 @@ Virtual Car Dealer can be accessed from your computer in any of your apartments.
 
 [Virtual Car Dealer on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
+### 5.8 LUT Switcher 2
+Realtime LUT switching! Features LUT blind comparison mode, custom packs, categories, favorites, and hotkeys to toggle active LUTs!
+
+[LUT Switcher 2 on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/16310)
+
 ## 6. Where Do I Adjust Mod Settings?
 There are 3 different Mod Settings menus in Project 2077. By default, all the settings are already set up for the optimal Project 2077 experience, but it can be tweaked to your personal tastes, if you wish to do so. This is where you can find the settings for the mods:
 
@@ -216,6 +222,8 @@ Nova Crowds (I recommend leaving the settings of this as is, since changing thin
 Auto Neon Rims (When you're on a bike, you can modify the neon rims here and this also turns them on by default)
 
 They Will Remember (For checking the the faction attitude and Disguise percentage)
+
+LUT Switcher 2 (Switching LUTs in real time)
 
 ## 6.2 Mods
 _This menu can be accessed from the main menu or pause menu_
