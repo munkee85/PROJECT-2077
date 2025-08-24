@@ -91,6 +91,10 @@ An SSD is STRONGLY recommended.
 
 # 4. Installation Instructions
 
+### BEFORE YOU START:  
+Uninstall Cyberpunk 2077. Go to your Steam/GOG folder and delete ALL remaining Files in the Cyberpunk 2077 folder. Reinstall Cyberpunk 2077. This ensures your installation is completely clean. _THIS IS NOT OPTIONAL!_
+
+
 _If you are installing the list from the Wabbajack Gallery, do Step 2 and skip ahead to Step 5_
 
 _If you are installing using the Nexus Mods file, follow ALL instructions carefully_
