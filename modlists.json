@@ -28,7 +28,12 @@
       "machineURL": "PROJECT-2077",
       "discordURL": "https://discord.gg/pXqE2rnNRn",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "480894",
+        "slug": "csee5d",
+        "domainName": "cyberpunk2077",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "W7a3gsdwMz0=",
