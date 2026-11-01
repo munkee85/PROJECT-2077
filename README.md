@@ -49,7 +49,7 @@ Night City is known for being full of gangs and violence. Experience what Night 
 Need to amp up your style for the streets of Night City? Do so with a large selection of custom clothing, all available from Virtual Atelier. Cruise the streets with a selection of epic new cars available from the Virtual Car Dealer.
 
 ### 1.5 Appearance:
-PROJECT 2077 uses Hyst's EBBPRB﻿ for Female V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
+PROJECT 2077 uses Solo Body﻿ for Female V, as well as adding some more hair options﻿ from Meluminary Hair Collection. Named NPC's got some love too with 4K textures from High Res Named NPC AIO.
 
 ### 1.6 Romance:
 Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messages﻿, romantic hangouts﻿ and more.
@@ -59,8 +59,6 @@ Get a more in-depth life with your paramour ﻿with lore-friendly text ﻿messag
 ### Cyberpunk 2077
 A clean, unmodified installation of Cyberpunk is a hard requirement!
 
-### REDmod
-Download REDmod from [Steam](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
 
 ### Phantom Liberty
 The paid DLC for Cyberpunk 2077
@@ -266,10 +264,6 @@ First Equip (How often the first equip animation is used)
 
 LHUD (Adjust the settings for Limited HUD. Default HUD toggle is F8)
 
-They Will Remember (Recommended settings are already set, but if you find it makes the game too difficult, alter the settings here)
-
-General Shadow Fixes (Recommend leaving it Enabled)
-
 LHUD Addons (More HUD settings. The custom colors get overridden by HUDPainter, so those settings are not useful)
 
 HUD Painter (These Settings are for the map colors. Recommend leaving as is to fit the aesthetic the Cyan preset for the menus and HUD)
@@ -277,8 +271,6 @@ HUD Painter (These Settings are for the map colors. Recommend leaving as is to f
 QuickMelee (Adjust settings for Melee actions (Set in your keybinds)
 
 Responsive NPCs (Adjust NPC reactions to certain triggers)
-
-Dark Future (Adjust Survival Mechanics)
 
 Taxi Work in Night City (Adjust the settings for being a taxi driver)
 
