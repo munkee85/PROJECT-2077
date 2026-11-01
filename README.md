@@ -40,10 +40,10 @@ The list is tailored to make the experience immersive and make Night City feel m
 PROJECT 2077 includes a full compliment of core mods, including Cyber Engine Tweaks﻿, RED4ext﻿, redscript﻿, ArchiveXL﻿, TweakXL﻿, Codeware ﻿and more, to allow you to modify the list to your needs and desires with little effort.
 
 ### 1.2 Graphics:
-Graphics has been enhanced with a selection of theCyanideX﻿'s Preem mods, along with RenoDX for crisp, clean visuals that stay true to the original look and feel of Night City. Weather has also been enhanced with Nova City 2. Also included is LUT Switcher 2 with loads of preloaded LUTs to enhance the atmosphere﻿ to your liking!
+Graphics has been enhanced with a collection of LUTs via LUT Switcher to create the look and feel of Night City you want. Weather has also been enhanced with Nova City 2.
 
 ### 1.3 Gameplay and Immersion:
-Night City is known for being full of gangs and violence. Experience what Night City was meant to be with more challenging enemies﻿﻿, faction reputation and survival mode﻿. But the NCPD won't let you live lawless with new, beefed up equipment and personnel. But Night City isn't all violence. Experience everyday living with the chooms you make along the way with Night City Interactions, and enjoy a more immersive experience when interacting with vendors and rippers across the city.
+Night City is known for being full of gangs and violence. Experience what Night City was meant to be with more challenging enemies﻿﻿. But the NCPD won't let you live lawless with new, beefed up equipment and personnel. But Night City isn't all violence. Experience everyday living with the chooms you make along the way with Night City Interactions, and enjoy a more immersive experience when interacting with vendors and rippers across the city.
 
  ### 1.4 Wheels and Duds:
 Need to amp up your style for the streets of Night City? Do so with a large selection of custom clothing, all available from Virtual Atelier. Cruise the streets with a selection of epic new cars available from the Virtual Car Dealer.
