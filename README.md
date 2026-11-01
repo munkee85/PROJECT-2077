@@ -161,6 +161,7 @@ Select a new game and enjoy! (A new game is required! Loading a save that wasn't
 ## 5. Important Mods You Should Know About
 ﻿
 ### 5.1 Dark Future - Urban Survival Gameplay
+[REMOVED]
 Dark Future is a fully-featured Survival, Gameplay, and Immersion mod with systems for Basic Needs, Anxiety, Addiction, and more.
 
 [Dark Future on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/16300)
@@ -171,6 +172,7 @@ Hides main HUD widgets by default and shows them only on certain events (configu
 [Limited HUD on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
 ### 5.3 They Will Remember
+[REMOVED]
 Provide a memory system for the gang factions: They will remember V!
 The more you defeat them, the higher the probability they will turn hostile. Watch your back! Stop slaughtering them and they will forget about you after a while.
 
